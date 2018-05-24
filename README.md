@@ -23,10 +23,10 @@
 开始安装 electron 相关依赖
 	注：我使用的cnpm，npm在第二步时太考验网络了
 	
-##	1、 
+##	1、  开始拉取 electron 依赖
 		cnpm install electron --save-dev 
 
-##	2、  安装electron-packager 打包成exe文件的插件（预下载好最后一步打包时用）
+##	2、  拉取 electron-packager 打包成exe文件的插件（预下载好最后一步打包时用）
 		cnpm install electron-packager --save-dev
 		
 		这一步可能报相关cnpm的版本错误 ，重新再拉取cnpm就可以；
