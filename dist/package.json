@@ -1,0 +1,10 @@
+{
+	"name": "lss",
+	"version": "1.0.2",
+	"description": "A minimal Electron application",
+	"main": "electron.js",
+	"devDependencies": {
+		"electron": "^2.0.2",
+		"electron-packager": "^12.1.0"
+	}
+}
